@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:45:00.458003
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:51
 #+TITLE: 律戒本疏
 #+PROPERTY: CBETA_ID T85n2789
 #+PROPERTY: ID KR6k0135
